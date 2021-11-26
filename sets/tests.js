@@ -1,4 +1,4 @@
-const findDuplicates = require('./sets')
+const findDuplicates = require('./challenge')
 const assert = require('assert')
 
 describe('Tests', function () { 
