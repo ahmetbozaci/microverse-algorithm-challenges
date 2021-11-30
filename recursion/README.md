@@ -1,14 +1,3 @@
-## How to solve this challenge?
-
-1. Read the "Challenge description" below.
-2. Make changes to the [challenge.js](./challenge.js) file.
-3. Commit your changes.
-4. Wait for the result of the "GitHub Classroom Workflow" action. If it is green - congratulations, you solved this challenge! If not - try again!
-5. *You can watch an example of how to solve a challenge in [this video](https://microverse.pathwright.com/library/fast-track-algorithms-data-structures/69123/path/step/113963868/)*
-
-
-## Challenge description
-
 ### Basic Recursion
 
 You will be given a positive integer number . Fill in the method sum so that it adds up all the positive integers up to number and returns the sum.

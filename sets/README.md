@@ -1,6 +1,3 @@
-
-## Challenge description
-
 ### Sets
 
 These are the important methods a Set, in JavaScript, supports:
